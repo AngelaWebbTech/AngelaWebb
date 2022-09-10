@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me
+- 📫 How to reach me: angelawebbtech@gmail.com
 
 <!---
 AngelaWebbtech/AngelaWebbtech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
