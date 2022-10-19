@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelaWebbTech
 - 👀 I’m a student interested in Full Stack Development & Game Development
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning OOP, Java and Javascript
 - 💞️ I’m looking to collaborate on anything where I can practice what I know and/or learn something new.
 - 📫 How to reach me: angelawebbtech@gmail.com
 
